@@ -1,4 +1,4 @@
-!(puppy.png)
+![](puppy.png)
 
 # Puppy
 
