@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" src="puppy.png">
+  <img width="400" height="500" src="puppy.png">
 </p>
 # Puppy
 
