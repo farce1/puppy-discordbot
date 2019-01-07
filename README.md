@@ -1,4 +1,4 @@
-![alt text](https://pixabay.com/photo-1295773/)
+!(puppy.png)
 
 # Puppy
 
