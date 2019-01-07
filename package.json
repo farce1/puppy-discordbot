@@ -1,0 +1,23 @@
+{
+  "name": "discopiesek",
+  "version": "1.0.0",
+  "description": "discord main bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-musicbot-addon": "^13.0.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "fortnite": "^4.1.1",
+    "nodemon": "^1.18.6",
+    "npm": "^6.4.1",
+    "opusscript": "0.0.6",
+    "superagent": "^4.0.0-beta.5",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.26.3"
+  }
+}
