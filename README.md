@@ -1,6 +1,5 @@
-![](puppy.png)
 <p align="center">
-  <img src="puppy.png">
+  <img width="600" height="200" src="puppy.png">
 </p>
 # Puppy
 
