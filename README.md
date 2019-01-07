@@ -1,5 +1,7 @@
 ![](puppy.png)
-
+<p align="center">
+  <img src="puppy.png">
+</p>
 # Puppy
 
 Puppy is a bot made for private usage only on discord servers.
